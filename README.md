@@ -47,3 +47,7 @@ https://reactnative.dev/
 <a href="https://www.youtube.com/watch?v=gvkqT_Uoahw">React Native in 100 sec</a>
 
 <a href="https://www.youtube.com/watch?v=0-S5a0eXPoc">Building an app in React Native</a>
+
+https://blog.logrocket.com/build-native-ui-components-react-native/
+
+https://reactnative.dev/docs/intro-react-native-components#native-components
