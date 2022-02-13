@@ -13,8 +13,12 @@ https://reactnative.dev/
 Co je React Native?
 ---
 - Open source JavaScript (JS) framework, který se používá pro tvorbu mobilních aplikací na iOS, Android a Windows
+- Je založený na ReactJS (JS knihovna k vytváření UI pro webové prohlížeče)
 - Používá JS k tvorbě cross-platform mobilních aplikací
 - React Native je stejný jako React, ale místo web komponent používá nativní komponenty jako building blocks
+- Aplikace jsou skutečně nativní, nejsou to webové aplikace vypadající jako mobilní
+
+- React neslouží jen k tvorbě mobilních aplikací, s použitím knihoven např. ```react-native-windows``` lze také tvořit Windows, popřípadě s odlišnou knihovnou macOS aplikace
 
 React Native: 
 
@@ -23,6 +27,9 @@ React Native:
 React JS:
 
 ![image](https://user-images.githubusercontent.com/90755554/152967584-4d2218a7-a4b4-4aee-b1c6-7033ebb7ac16.png)
+
+Co jsou to nativní komponenty?
+---
 
 
 Výhody React Native
