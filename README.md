@@ -27,7 +27,7 @@ Výhody React Native
 
 - Cross-Platform
 - JavaScript
-- Nativní componenty
+- <a href="https://reactnative.dev/docs/intro-react-native-components#native-components">Nativní componenty</a>
 
 Nevýhody React Native
 ---
