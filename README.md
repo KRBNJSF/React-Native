@@ -8,7 +8,7 @@ Co je React Native?
 - React Native je stejný jako React, ale místo web komponent používá nativní komponenty jako building blocks
 - Aplikace jsou skutečně nativní, nejsou to webové aplikace vypadající jako mobilní
 
-- React neslouží jen k tvorbě mobilních aplikací, s použitím knihoven např. ```react-native-windows``` lze také tvořit Windows, popřípadě s odlišnou knihovnou macOS aplikace
+- React neslouží jen k tvorbě mobilních aplikací, s použitím knihoven např. ```react-native-windows``` lze také tvořit Windows, popřípadě s odlišnou knihovnou, macOS aplikace
 
 React Native: 
 
