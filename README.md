@@ -6,6 +6,16 @@ Dependencies set up via expo
 
 ![image](https://user-images.githubusercontent.com/90755554/155754568-ac6e1934-a2bc-49a3-8a0a-20a59471efbe.png)
 
+### Tvorba vlastní komponenty, kterou lze poté využít stejně, jako View, Text, apod.
+
+![image](https://user-images.githubusercontent.com/90755554/155758363-53fa61a5-acea-4bb8-aeb7-59af36d98070.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155758543-4bab39df-e558-44fd-86a0-51e074e4af92.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155758496-bbc0838a-9881-4112-901a-f4685531e13a.png)
+
+### StyleSheet v React Native
+
 
 Co je React Native?
 ---
