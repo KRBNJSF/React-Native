@@ -16,6 +16,8 @@ Dependencies set up via expo
 
 ### StyleSheet v React Native
 
+<a href="https://reactnative.dev/docs/style">React native style</a>
+
 
 Co je React Native?
 ---
