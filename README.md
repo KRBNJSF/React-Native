@@ -1,5 +1,7 @@
 # React-Native
 
+Ctrl + K Ctrl + O -> vsc file opener
+
 ### Expo
 
 Dependencies set up via expo
