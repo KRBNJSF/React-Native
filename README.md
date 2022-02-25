@@ -70,3 +70,5 @@ https://reactnative.dev/
 https://blog.logrocket.com/build-native-ui-components-react-native/
 
 https://reactnative.dev/docs/intro-react-native-components#native-components
+
+https://reactnative.dev/docs/style
