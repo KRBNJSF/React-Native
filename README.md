@@ -18,6 +18,14 @@ Dependencies set up via expo
 
 <a href="https://reactnative.dev/docs/style">React native style</a>
 
+### props
+
+![image](https://user-images.githubusercontent.com/90755554/155760097-6c894ee4-3d4d-4fcd-8f54-27c21e5cd0fa.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155760117-5eb668a7-fc4e-4033-afb3-e117df6c7672.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155760139-39b504dd-aa58-4c27-8715-5920c9bf6dab.png)
+
 
 Co je React Native?
 ---
