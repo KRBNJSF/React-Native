@@ -37,6 +37,8 @@ Dependencies set up via expo
 
 ### State
 
+<a href="https://reactjs.org/docs/forms.html#controlled-components">Controlled components</a>
+
 ![image](https://user-images.githubusercontent.com/90755554/155854143-48f0729b-f6fe-4f8d-925e-ec66c2b84c9a.png)
 
 ![image](https://user-images.githubusercontent.com/90755554/155854155-8cee6a30-a0b8-487b-ad4a-a9bf31cf563a.png)
@@ -104,3 +106,5 @@ https://blog.logrocket.com/build-native-ui-components-react-native/
 https://reactnative.dev/docs/intro-react-native-components#native-components
 
 https://reactnative.dev/docs/style
+
+https://reactjs.org/docs/forms.html#controlled-components
