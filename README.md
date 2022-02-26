@@ -35,6 +35,21 @@ Dependencies set up via expo
 
 ![image](https://user-images.githubusercontent.com/90755554/155760139-39b504dd-aa58-4c27-8715-5920c9bf6dab.png)
 
+### State
+
+![image](https://user-images.githubusercontent.com/90755554/155854143-48f0729b-f6fe-4f8d-925e-ec66c2b84c9a.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854155-8cee6a30-a0b8-487b-ad4a-a9bf31cf563a.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854198-54a41fe0-713c-4bf0-95e3-6bd123a726ff.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854206-324ccb31-90f9-486f-8252-4b80224944b3.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854216-9c3c0d26-0523-4da1-8adc-13427a1a13a9.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854235-49223f91-0ed0-4609-8cd3-8e16bdfabf9c.png)
+
+![image](https://user-images.githubusercontent.com/90755554/155854249-53b274b8-43a0-4cfc-927b-68f6cac41a16.png)
 
 Co je React Native?
 ---
