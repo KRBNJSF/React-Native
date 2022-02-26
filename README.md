@@ -2,6 +2,8 @@
 
 Ctrl + K Ctrl + O -> vsc file opener
 
+Shift + Alt + Up/Down -> duplicating lines
+
 ### Expo
 
 Dependencies set up via expo
